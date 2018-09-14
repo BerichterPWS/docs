@@ -17,4 +17,6 @@ Ook kan de server technische problemen ervaren of uit de lucht gehaald worden, e
 
 Apps zoals Tox en e-Chat versturen de berichten direkt naar de ontvanger, zonder server in het midden.
 
+![Afbeelding](../images/gedecentraliseerd.png)
+
 //TODO
